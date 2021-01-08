@@ -1,0 +1,3 @@
+/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/CMakeFiles/edit_cache.dir
+/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/CMakeFiles/CGpipeline.dir

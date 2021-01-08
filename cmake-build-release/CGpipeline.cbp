@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CGpipeline"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGpipeline">
+				<Option output="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/CGpipeline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 CGpipeline"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CGpipeline/fast">
+				<Option output="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/CGpipeline" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 CGpipeline/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/sept-lambda/Desktop/Code/C++/CGproject/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Camera.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Gun.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Gun.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Light.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Mesh.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Model.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Model.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Monster.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Monster.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Shader.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Shader.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Skybox.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Skybox.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Tree.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/Tree.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/glad.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/ifCollision.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/ifCollision.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/main.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/stb_image.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/stb_image.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/surface.cpp">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/surface.h">
+			<Option target="CGpipeline"/>
+		</Unit>
+		<Unit filename="/Users/sept-lambda/Desktop/Code/C++/CGproject/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
